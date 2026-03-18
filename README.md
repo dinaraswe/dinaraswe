@@ -9,8 +9,8 @@
    -💻 I am currently learning **HTML5** and **CSS3**.
   
    -⚡️I enjoy doing different exercises and solving tasks.
-  
 I especially like solving logical problems.
+  
    -🌍 Based in **Karakalpakstan,Uzbekistan**.
   
 <!--
